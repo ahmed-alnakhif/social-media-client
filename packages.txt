@@ -1,0 +1,15 @@
+npm install --save react-router-dom	#to navigate to different pages
+
+npm install --save @material-ui/core	#to use material ui
+
+npm install --save axios	#to connect to firebase endpoint
+
+npm install --save @material-ui/icons		
+
+npm install --save dayjs	#to reformat dates
+
+npm install --save jwt-decode     #to decode tokens
+
+npm install --save redux react-redux redux-thunk   #to use redux
+
+npm install --save @material-ui/icons
