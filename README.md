@@ -1,6 +1,6 @@
 # BlackSpace 
 
-This is a website where users can find and restaurant based on real-world data by entring the city name and type of restaurant.
+
 
 ## Live Demo
 https://socialape-9484b.firebaseapp.com/
